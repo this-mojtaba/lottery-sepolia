@@ -57,7 +57,7 @@ const App = () => {
   return (
     <div className="App">
       <div className="container">
-        <img src="/logo192.png" alt="Lottery Logo" className="logo" />
+        <img src="/lottery-sepolia/logo192.png" alt="Lottery Logo" className="logo" />
         <h1>🎰 Lottery Contract 🎰</h1>
         <p className="manager">
           Managed by: <strong>{manager}</strong>
