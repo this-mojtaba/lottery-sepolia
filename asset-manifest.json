@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/lottery-sepolia/static/css/main.ecede726.css",
-    "main.js": "/lottery-sepolia/static/js/main.3f6b46c9.js",
+    "main.js": "/lottery-sepolia/static/js/main.4f1d3346.js",
     "static/js/453.090bba08.chunk.js": "/lottery-sepolia/static/js/453.090bba08.chunk.js",
     "index.html": "/lottery-sepolia/index.html",
     "main.ecede726.css.map": "/lottery-sepolia/static/css/main.ecede726.css.map",
-    "main.3f6b46c9.js.map": "/lottery-sepolia/static/js/main.3f6b46c9.js.map",
+    "main.4f1d3346.js.map": "/lottery-sepolia/static/js/main.4f1d3346.js.map",
     "453.090bba08.chunk.js.map": "/lottery-sepolia/static/js/453.090bba08.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ecede726.css",
-    "static/js/main.3f6b46c9.js"
+    "static/js/main.4f1d3346.js"
   ]
 }
