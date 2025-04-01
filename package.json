@@ -2,7 +2,7 @@
   "name": "lottery-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://this-mojtaba.github.io/your-repo",
+  "homepage": "https://this-mojtaba.github.io/lottery-sepolia/",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",

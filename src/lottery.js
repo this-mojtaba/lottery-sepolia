@@ -57,5 +57,5 @@ const ABI = [
 
 export default {
   contract: new web3.eth.Contract(ABI, address),
-  address: address
-}
+  address: address,
+};
